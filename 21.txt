@@ -1,0 +1,5 @@
+21.) Stetoscopul
+
+Stetoscopul este o unelta datorita careia poti asculta bataiile inimi, respiratia, etc.
+
+O poti folosi la consultatie prin /me iti pune stetoscopul pe ...
