@@ -1,0 +1,20 @@
+19.) Termometrul
+
+Termometrul este un aparat care iti ia termperatura. 
+Termometrul indica temperatura corpului uman(in cazul de fata).
+
+Ex: Temeratura normala este intre ~ 36,5 - 37
+
+Daca temperatura terce peste ~37 grade Celsius inseamna ca ai febra:
+	
+- starea subfebrila (o temperatura de pana la 37,5 °C)
+- febra usoara(37.5 - 38° C)
+- febra (o temperatura intre (38 °C și 39 °C)
+- febra ridicata (o temperatura intre 39 °C si 40,5 °C)
+- Hiperpirexie (o temperatură de peste 40,5 °C)
+
+De asemenea acesta poate indica si temperaturi mai mice de 36.5:
+
+- cand coboara mai putin de 35,5 nu este normal. Ar trebuii sa iei legatura cu un doctor
+- cand coboara la 30 de grade persoana isi pierde constiinta
+- cand coboara la 34,5 grade poate fi, de asemenea, un simptom periculos al unor boli.
