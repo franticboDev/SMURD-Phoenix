@@ -1,5 +1,24 @@
 21.) Stetoscopul
 
-Stetoscopul este o unelta datorita careia poti asculta bataiile inimi, respiratia, etc.
+Info?
+Stetoscopul este o undelta din metal care o pui pe pacient.
 
-O poti folosi la consultatie prin /me iti pune stetoscopul pe ...
+Pentru ce folosim?
+Il folosim pentru a asculta respiratia si bataile inimii.
+
+Cand il folosim?
+Folosim instrumentul la controale
+
+Info aplicare?
+Se dezbraca pacientul si se pune stetoscopul
+
+Care sunt pasii?
+1) Se dezbraca pacientul
+2) Se pune stetoscopul pe ...
+3) Ii spui sa inspire si sa expire
+
+Ce /me poti folosii?
+/me dezbraca pacientul
+/me pune stetoscopul
+/me schimba pozitia stetoscopului
+/me imbraca pacientul
