@@ -1,8 +1,28 @@
 19.) Termometrul
 
+Info?
 Termometrul este un aparat care iti ia termperatura. 
-Termometrul indica temperatura corpului uman(in cazul de fata).
 
+Cand il folosim?
+Il folosim in momentul in care banuim ca persoana are febra
+
+Pentru ce folosim?
+Il folosim pentru a verifica temperatura corpului
+
+Info aplicare?
+Bagi termometrul sub subrat, apesi pe buton si dupa ce face beep verifici temperatura.
+
+Care sunt pasii?
+1) Bagi termometrul sub subratul pacientului
+2) Apesi pe buton
+3) Astepti sa faca beep, apoi il scoti si verific temperatura
+
+Ce /me se pot folosi?
+/me pune termometrul sub subrat
+/me apasa pe buton
+/me verifica temperatura
+
+Info rezultat?
 Ex: Temeratura normala este intre ~ 36,5 - 37
 
 Daca temperatura terce peste ~37 grade Celsius inseamna ca ai febra:
