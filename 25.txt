@@ -14,7 +14,7 @@ Intepi pacientul cu acul si tragi sangele
 
 Care sunt pasii?
 1) Intepi pacientul cu acul
-2)	 Tragi sangele in eprubeta
+2) Tragi sangele in eprubeta
 3) Scoti acul
 
 Ce /me pot folosi?
