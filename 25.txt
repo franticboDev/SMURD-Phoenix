@@ -1,6 +1,25 @@
 25.) Eprubeta 
 
-Aceasta este folosita la analizele de sange.
+Info?
+Este un recipient de sticla
 
-Dupa ce iti baga acul in eprubeta iti pune sangele.
-Apoi este dusa la laborator pt. teste.
+Cand o folosim?
+Folosim eprubeta la o analiza de sange
+
+Pentru ce folosim?
+O folosim pentru a duce sangele la laborator ca sa fie testat
+
+Info aplicare?
+Intepi pacientul cu acul si tragi sangele
+
+Care sunt pasii?
+1) Intepi pacientul cu acul
+2)	 Tragi sangele in eprubeta
+3) Scoti acul
+
+Ce /me pot folosi?
+/me intep cu acul
+/me trag sangele in eprubeta
+/me scoate acul
+/me duce eprubeta la laborator
+/me eliberaza rezultatul in baza de date
