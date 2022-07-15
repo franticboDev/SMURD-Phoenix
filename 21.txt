@@ -16,6 +16,7 @@ Care sunt pasii?
 1) Se dezbraca pacientul
 2) Se pune stetoscopul pe ...
 3) Ii spui sa inspire si sa expire
+4) Dupa ce termini il imbraci
 
 Ce /me poti folosii?
 /me dezbraca pacientul
