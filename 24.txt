@@ -9,11 +9,16 @@ Folosim ghipsul cand avem o fractura la o membra
 Pentru ce folosim?
 Il folosim pentru a fixa membra o anumita perioada de timp pentru a creste osul corect
 
-Cum il folosim? 
-1) Infasoara membra in vata pana unde este nevoie
-2) Uda foile de ghips in apa calda
-3) Cu foile de ghips infasori vata
-4) Se asteapta ~15 min pentru a se intari
+Info aplicare?
+Se dezbraca pacientul, infasora membra in vata, se uda foiile, se aplica ipsosul.
+
+Care sunt pasii? 
+1) Se dezbraca pacientul 
+2) Infasoara membra in vata pana unde este nevoie
+3) Uda foile de ghips in apa calda
+4) Cu foile de ghips infasori vata
+5) Se asteapta ~15 min pentru a se intari
+6) Se imbraca pacientul
 
 Ce /me poti folosi?
 /me Il dezbraca
@@ -22,3 +27,4 @@ Ce /me poti folosi?
 /me aplica foile de ghips peste vata
 /me noteaza data cand vine sa isi dea ghipsul jos
 /me taie cu freza ghipsul
+/me il imbraca
