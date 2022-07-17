@@ -1,10 +1,10 @@
 19.) Termometrul
 
 Info?
-Termometrul este un aparat care iti ia termperatura. 
+Termometrul este un aparat care iti masoara termperatura. 
 
 Cand il folosim?
-Il folosim in momentul in care banuim ca persoana are febra
+Cand avem nevoie de temperatura pacientului.
 
 Pentru ce folosim?
 Il folosim pentru a verifica temperatura corpului
