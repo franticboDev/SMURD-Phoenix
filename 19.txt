@@ -6,11 +6,11 @@ Termometrul este un aparat care iti masoara termperatura.
 Cand il folosim?
 Cand avem nevoie de temperatura pacientului.
 
-Pentru ce folosim?
-Il folosim pentru a verifica temperatura corpului
+Pentru ce il folosim?
+Il folosim pentru a verifica temperatura corpului.
 
 Info aplicare?
-Bagi termometrul sub subrat, apesi pe buton si dupa ce face beep verifici temperatura.
+Pui termometrul la fruntea pacientul si apesi pe buton. Dupa aceea se afiseaza temperatura.
 
 Care sunt pasii?
 1) Bagi termometrul sub subratul pacientului
