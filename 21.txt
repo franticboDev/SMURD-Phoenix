@@ -1,25 +1,24 @@
+
 21.) Stetoscopul
 
 Info?
-Stetoscopul este o undelta din metal care o pui pe pacient.
+Stetoscopul este un obiect care il pui pe pacient.
 
 Pentru ce folosim?
-Il folosim pentru a asculta respiratia si bataile inimii.
+Este folosit pentru a asculta organele interne cum sunt inima si plamanii, si cu ajutorul caruia se face diferenta intre anumite diagnosticari a anumitor boli.
 
 Cand il folosim?
-Folosim instrumentul la controale
+Il folosim pentru obtinerea de date, sau indici importante in ceea ce priveste starea de sanatate a unui pacient.
 
 Info aplicare?
-Se dezbraca pacientul si se pune stetoscopul
+Se dezbraca pacientul si se pune stetoscopul , in diferite parti ale corpului in zona toracica, cat si pe spate. 
 
 Care sunt pasii?
-1) Se dezbraca pacientul
+1) Se dezbraca pacientul (daca este cazul : partea toracica) 
 2) Se pune stetoscopul pe ...
 3) Ii spui sa inspire si sa expire
-4) Dupa ce termini il imbraci
 
-Ce /me poti folosii?
-/me dezbraca pacientul
-/me pune stetoscopul
-/me schimba pozitia stetoscopului
-/me imbraca pacientul
+Ce /me poți folosii?
+/me dezbraca pacientul 
+/me pune stetoscopul (pe : Torace , Coloana )
+/me schimbă poziția stetoscopului
