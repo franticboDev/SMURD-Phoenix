@@ -10,17 +10,17 @@ Pentru ce il folosim?
 Il folosim pentru a verifica temperatura corpului.
 
 Info aplicare?
-Pui termometrul la fruntea pacientul si apesi pe buton. Dupa aceea se afiseaza temperatura.
+Pui termometrul la fruntea pacientului si apesi pe buton. Dupa aceea se afiseaza temperatura.
 
 Care sunt pasii?
-1) Bagi termometrul sub subratul pacientului
+1) Pui termometrul la fruntea pacientului (distanta de ~5 cm)
 2) Apesi pe buton
-3) Astepti sa faca beep, apoi il scoti si verific temperatura
+3) Citesti temperatura
 
 Ce /me se pot folosi?
-/me pune termometrul sub subrat
+/me pune la fruntea pacientului
 /me apasa pe buton
-/me verifica temperatura
+/me vede temperatura
 
 Info rezultat?
 Ex: Temeratura normala este intre ~ 36,5 - 37
