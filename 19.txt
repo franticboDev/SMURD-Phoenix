@@ -23,18 +23,18 @@ Ce /me se pot folosi?
 /me vede temperatura
 
 Info rezultat?
-Ex: Temeratura normala este intre ~ 36,5 - 37
 
-Daca temperatura trece peste ~37 grade Celsius inseamna ca pacientul are febra:
-	
-- starea subfebrila (o temperatura de pana la 37,5 °C)
-- febra usoara(37.5 - 38° C)
-- febra (o temperatura intre (38 °C si 39 °C)
-- febra ridicata (o temperatura intre 39 °C si 40,5 °C)
-- hiperpirexie (o temperatura de peste 40,5 °C)
+Ex: Temperatura normala este intre ~ 36,5 - 37 °C
 
-De asemenea acesta poate indica si temperaturi mai mice de 36,5:
+[Temperatura crescuta]	
+- starea subfebrila 	(o temperatura de pana la 37,5 °C)
+- febra usoara 		(o temperatura intre 37.5 - 38° C)
+- febra  		(o temperatura intre (38 °C si 39 °C)
+- febra ridicata 	(o temperatura intre 39 °C si 40,5 °C)
+- hiperpirexie 		(o temperatura de peste 40,5 °C)
 
-hipotermie ușoară (32-35°C);
-hipotermie moderată (28-32°C);
-hipotermie severă (sub 28°C).
+[Temperatura scazuta]
+- hipotermie ușoară 		( o temperatura de sub 32-35°C);
+- hipotermie moderată 	( o temperatura de sub 28-32°C)
+- hipotermie severă 		( o temperatura de sub 28°C).
+
