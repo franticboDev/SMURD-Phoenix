@@ -35,6 +35,5 @@ Daca temperatura trece peste ~37 grade Celsius inseamna ca pacientul are febra:
 
 De asemenea acesta poate indica si temperaturi mai mice de 36,5:
 
-- cand coboara mai putin de 35,5 nu este normal.
 - cand coboara la 30 de grade persoana isi pierde constiinta
 - cand coboara la 34,5 grade poate fi, de asemenea, un simptom periculos al unor boli.
